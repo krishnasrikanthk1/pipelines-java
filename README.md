@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/s5fdevopslabs/pipeline-java/_apis/build/status/krishnasrikanthk1.pipelines-java?branchName=master)](https://dev.azure.com/s5fdevopslabs/pipeline-java/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
